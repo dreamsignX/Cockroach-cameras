@@ -36,3 +36,5 @@ Example: Nmap scan report for 192.168.X.XX
 Put the target ip (192.168.X.XX)
 (!) and it will scan sucessfull, (if camera not found, it will show "cameras: 0"
 (!) Make sure put a camera IP to scan.
+
+![Screenshot](screenshot.png)
